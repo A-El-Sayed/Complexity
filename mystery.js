@@ -11,8 +11,7 @@ function main()
 function chains()
 {
   return cfield.toUpperCase( 
-      x.y.z.data
-       .forty.two
+      x.y.z.data.forty.two
  );
 }
 
